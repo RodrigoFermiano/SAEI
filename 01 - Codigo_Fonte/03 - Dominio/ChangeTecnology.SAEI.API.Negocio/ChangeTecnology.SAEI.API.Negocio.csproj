@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\04 - Infra\ChangeTecnology.SAEI.API.Dados\ChangeTecnology.SAEI.API.Dados.csproj" />
+    <ProjectReference Include="..\ChangeTecnology.SAEI.API.Entidades\ChangeTecnology.SAEI.API.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

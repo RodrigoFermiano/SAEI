@@ -1,0 +1,17 @@
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.deps.json
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.dll
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.pdb
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.AssemblyInfo.cs
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.dll
+C:\Users\logonrmlocal\Downloads\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.pdb
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.deps.json
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.dll
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\bin\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.pdb
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.csprojAssemblyReference.cache
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.csproj.CoreCompileInputs.cache
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.AssemblyInfoInputs.cache
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.AssemblyInfo.cs
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.dll
+C:\Projetos\ChangeTecnology\01 - Codigo_Fonte\03 - Dominio\ChangeTecnology.SAEI.API.Entidades\obj\Debug\netcoreapp2.1\ChangeTecnology.SAEI.API.Entidades.pdb
