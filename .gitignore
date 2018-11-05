@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/01 - Codigo_Fonte/04 - Infra/ChangeTecnology.SAEI.API.Dados/obj/Release/netcoreapp2.1/ChangeTecnology.SAEI.API.Dados.csproj.CoreCompileInputs.cache
