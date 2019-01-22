@@ -4,7 +4,12 @@ using System.Text;
 
 namespace SAIEApp.Models
 {
-    class Log
+    public class Log
     {
+        public int IdLog { get; set; }
+        public string Descricao { get; set; }
+        public DateTime DataHora { get; set; }
+        public string Texto { get; set; }
+
     }
 }

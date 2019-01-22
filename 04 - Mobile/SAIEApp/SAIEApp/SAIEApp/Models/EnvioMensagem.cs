@@ -4,7 +4,11 @@ using System.Text;
 
 namespace SAIEApp.Models
 {
-    class EnvioMensagem
+    public class EnvioMensagem
     {
+        public int IdEnvioMensagem { get; set; }
+        public int IdMensagem { get; set; }
+        public int IdEntidadeEnvio { get; set; }
+
     }
 }

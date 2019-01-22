@@ -4,7 +4,10 @@ using System.Text;
 
 namespace SAIEApp.Models
 {
-    class Documento
+    public class Documento
     {
+        public int IdDocumento { get; set; }
+        public int TipoPessoa { get; set; }
+        public string DocEntidade { get; set; }
     }
 }
